@@ -19,3 +19,30 @@
 [Thu May 28 21:14:26 PKT 2026] [DISCONNECT] User 'faizan' disconnected. Active clients: 2
 [Thu May 28 21:14:34 PKT 2026] [MSG][abdullah]: /quit
 [Thu May 28 21:14:34 PKT 2026] [DISCONNECT] User 'abdullah' disconnected. Active clients: 1
+[Thu May 28 21:16:37 PKT 2026] SERVER STARTED on port 5000
+[Thu May 28 21:16:57 PKT 2026] [AUTH SUCCESS] User 'ammar' authenticated from IP: 127.0.0.1
+[Thu May 28 21:16:57 PKT 2026] [CONNECT] User 'ammar' connected from IP: 127.0.0.1
+[Thu May 28 21:17:13 PKT 2026] [AUTH SUCCESS] User 'faizan' authenticated from IP: 127.0.0.1
+[Thu May 28 21:17:13 PKT 2026] [CONNECT] User 'faizan' connected from IP: 127.0.0.1
+[Thu May 28 21:17:28 PKT 2026] [AUTH SUCCESS] User 'abdullah' authenticated from IP: 127.0.0.1
+[Thu May 28 21:17:28 PKT 2026] [CONNECT] User 'abdullah' connected from IP: 127.0.0.1
+[Thu May 28 21:17:43 PKT 2026] [MSG][ammar]: hi i am ammar..!
+[Thu May 28 21:17:43 PKT 2026] [BROADCAST][ammar]: hi i am ammar..!
+[Thu May 28 21:18:08 PKT 2026] [MSG][faizan]: /broadcast i am faizan
+[Thu May 28 21:18:08 PKT 2026] [BROADCAST][faizan]: i am faizan
+[Thu May 28 21:18:40 PKT 2026] [MSG][abdullah]: /pm ammar How is the project going?
+[Thu May 28 21:18:40 PKT 2026] [PRIVATE][abdullah -> ammar]: How is the project going?
+[Thu May 28 21:19:08 PKT 2026] [MSG][ammar]: /pm abdullah it is going gr8..!
+[Thu May 28 21:19:08 PKT 2026] [PRIVATE][ammar -> abdullah]: it is going gr8..!
+[Thu May 28 21:20:07 PKT 2026] [MSG][abdullah]: /quit
+[Thu May 28 21:20:07 PKT 2026] [DISCONNECT] User 'abdullah' disconnected. Active clients: 2
+[Thu May 28 21:20:57 PKT 2026] [MSG][faizan]: abdullah has left the chat?
+[Thu May 28 21:20:57 PKT 2026] [BROADCAST][faizan]: abdullah has left the chat?
+[Thu May 28 21:21:07 PKT 2026] [MSG][ammar]: yes he has left
+[Thu May 28 21:21:07 PKT 2026] [BROADCAST][ammar]: yes he has left
+[Thu May 28 21:21:14 PKT 2026] [MSG][ammar]: i am leaving too
+[Thu May 28 21:21:14 PKT 2026] [BROADCAST][ammar]: i am leaving too
+[Thu May 28 21:21:19 PKT 2026] [MSG][ammar]: /quit
+[Thu May 28 21:21:19 PKT 2026] [DISCONNECT] User 'ammar' disconnected. Active clients: 1
+[Thu May 28 21:22:16 PKT 2026] [MSG][faizan]: /quit
+[Thu May 28 21:22:16 PKT 2026] [DISCONNECT] User 'faizan' disconnected. Active clients: 0
