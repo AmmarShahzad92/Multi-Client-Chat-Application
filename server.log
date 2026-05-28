@@ -1,0 +1,21 @@
+[Thu May 28 21:11:10 PKT 2026] SERVER STARTED on port 5000
+[Thu May 28 21:11:59 PKT 2026] [AUTH SUCCESS] User 'ammar' authenticated from IP: 127.0.0.1
+[Thu May 28 21:11:59 PKT 2026] [CONNECT] User 'ammar' connected from IP: 127.0.0.1
+[Thu May 28 21:12:31 PKT 2026] [AUTH SUCCESS] User 'abdullah' authenticated from IP: 127.0.0.1
+[Thu May 28 21:12:31 PKT 2026] [CONNECT] User 'abdullah' connected from IP: 127.0.0.1
+[Thu May 28 21:12:53 PKT 2026] [MSG][ammar]: /broadcast Hello everyone!
+[Thu May 28 21:12:53 PKT 2026] [BROADCAST][ammar]: Hello everyone!
+[Thu May 28 21:13:28 PKT 2026] [AUTH SUCCESS] User 'faizan' authenticated from IP: 127.0.0.1
+[Thu May 28 21:13:28 PKT 2026] [CONNECT] User 'faizan' connected from IP: 127.0.0.1
+[Thu May 28 21:13:36 PKT 2026] [MSG][ammar]: /broadcast Hello everyone!
+[Thu May 28 21:13:36 PKT 2026] [BROADCAST][ammar]: Hello everyone!
+[Thu May 28 21:13:45 PKT 2026] [MSG][abdullah]: /pm ammar How is the project going?
+[Thu May 28 21:13:45 PKT 2026] [PRIVATE][abdullah -> ammar]: How is the project going?
+[Thu May 28 21:14:06 PKT 2026] [MSG][faizan]: i am also here as faizy
+[Thu May 28 21:14:06 PKT 2026] [BROADCAST][faizan]: i am also here as faizy
+[Thu May 28 21:14:15 PKT 2026] [MSG][faizan]: what are you guys doing
+[Thu May 28 21:14:15 PKT 2026] [BROADCAST][faizan]: what are you guys doing
+[Thu May 28 21:14:26 PKT 2026] [MSG][faizan]: /quit
+[Thu May 28 21:14:26 PKT 2026] [DISCONNECT] User 'faizan' disconnected. Active clients: 2
+[Thu May 28 21:14:34 PKT 2026] [MSG][abdullah]: /quit
+[Thu May 28 21:14:34 PKT 2026] [DISCONNECT] User 'abdullah' disconnected. Active clients: 1
